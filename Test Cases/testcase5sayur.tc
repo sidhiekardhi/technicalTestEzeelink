@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mengambil informasi dari sayur</description>
+   <name>testcase5sayur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84b1bbfc-5c1a-4164-aedf-d5c72f4eb610</testCaseGuid>
+</TestCaseEntity>

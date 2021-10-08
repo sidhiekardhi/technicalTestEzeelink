@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>add to cart</description>
+   <name>testcase16addtocart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1105a161-c9a1-4f90-a335-4b1a019b48a3</testCaseGuid>
+</TestCaseEntity>

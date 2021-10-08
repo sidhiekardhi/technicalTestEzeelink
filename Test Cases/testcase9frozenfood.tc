@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing halaman frozen food</description>
+   <name>testcase9frozenfood</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61848c32-7f2d-4658-b26f-acfd4b92777b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>sampe tahap checkout namun gagal karena data tidak lengkap</description>
+   <name>testcase19checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c52e5115-7f9f-43aa-9f67-2cfae297e144</testCaseGuid>
+</TestCaseEntity>

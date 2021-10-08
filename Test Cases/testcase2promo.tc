@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>menguji promo</description>
+   <name>testcase2promo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1add0af1-a236-4211-955f-920598676412</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>testing untuk keranjang</description>
+   <name>testcase14LihatKeranjang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0ecf942a-3ba5-45ac-a3a6-37a8b1858521</testCaseGuid>
+</TestCaseEntity>
